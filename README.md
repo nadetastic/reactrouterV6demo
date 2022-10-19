@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## A few basic routes were setup
+## A few basic routes are setup
 
 /
 
